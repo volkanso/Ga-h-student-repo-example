@@ -1,1 +1,1 @@
-# GAIH-student-repo-example
+# GAIH-öğrenci-repo-örneği

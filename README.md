@@ -1,1 +1,1 @@
-# Ga-h-student-repo-example
+# Gaıh-student-repo-example
